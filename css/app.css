@@ -1,0 +1,42 @@
+h1, h2, h3 {
+	text-align: center;
+}
+
+.header {
+	background-color: #2980b9;
+	color: #FFFFFF;
+	margin-bottom: 3rem;
+}
+
+body {
+	background-color: #F8F8F8;
+}
+
+label, input {
+	display: block;
+	margin-bottom: 1rem;
+}
+
+.layer {
+	margin-bottom: 0.75rem;
+}
+
+.layer-panel {
+	padding: 0.5rem 1rem 0.5rem 0.25rem;
+	border-radius: 3px;
+	background-color: #7EA5BF; 
+	color: black;
+}
+
+.layer-panel input[type=text] {
+	width: 100%;
+} 
+
+label {
+	font-weight: bold;
+}
+
+.btn {
+	width: 100%;
+	margin: 0 auto;
+}
